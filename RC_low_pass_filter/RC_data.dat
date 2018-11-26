@@ -1,0 +1,47 @@
+//the folowing data relate to a RC low pass filter with a cuttoff frequency of about 79 Hz. For this circuit we used the following components: 2 kOhm resistor 
+	//  1 microFarad capacitor
+
+
+//NOTE: taking precise measurements was really difficult because of the background noise at low frequencies
+
+
+
+double nu[]={  //frequency
+51,
+81,
+92,
+112,
+295,
+322,
+519,
+856,
+962,
+1203,
+2676,
+4232,
+7123,
+10237,
+12941,
+19796
+
+};
+double A[]={  //transfer function
+0.894,
+0.843,
+0.703,
+0.659,
+0.373,
+0.258,
+0.241,
+0.155,
+0.087,
+0.090,
+0.046,
+0.040,
+0.036,
+0.023,
+0.018,
+0.010,
+0.013
+};
+ 
