@@ -1,5 +1,5 @@
 
-The material in this folder is the result of a simple co-worker project to reproduce the lab experiences of the Experimental Physcis 2 Laboratory:
+The material in this folder is the result of a simple co-worker project to reproduce the lab experiences of the Experiment in Physics II course:
 
 FOLDER CONTENT:
 
