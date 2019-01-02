@@ -1,0 +1,17 @@
+In March 2017, two colleagues of mine and I decided to deepen some aspects of
+the Experiment in Physics II course we attended at University until June 2017. So,
+we bought an old analogic oscilloscope (Telequipment D54), we borrowed some
+passive electronic components from the University lab and we repeated some of the
+lab experiences we previously had done at University. Those experiences consisted
+of studying the frequency response of basic circuits such as low-pass, high-pass
+and band-pass filters.
+Needing a voltage signal generator, we benefitted from an open source project by
+Oleh C. on www.github.com (Simple Sine Wave Generator), which consisted of a
+simple sound generator program implemented in C++, using the JUCE library.
+Then, this sound signal generator was used as a voltage signal generator thanks to
+a dismantled audio jack onto which two thin electric cables were soldered. Once
+plugged into the computer, with the above-mentioned C++ program, the jack
+allowed for the transmission of a sinusoidal voltage signal to the input of our
+circuits. The result was a basic function generator which could only work in the
+audio band. Despite this restriction, we managed to replicate many of the lab
+experiences, practicing with the oscilloscope, and familiarizing with fitting in ROOT.
