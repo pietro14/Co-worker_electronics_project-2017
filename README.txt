@@ -1,10 +1,11 @@
 
-The material in this folder is the result of a simple C++ project
-aimed at calculating the determinant of a square matrix 
-
+The material in this folder is the result of a simple co-worker project to reproduce the lab experiences of the Experimental Physcis 2 Laboratory:
 
 FOLDER CONTENT:
 
-- Gallery folder:
+- Gallery folder
 
-- simpleSineWaveGenerator-master Folder: this is the project by Oleh C. we used to build the function generator
+- RC_low_pass_filter folder, containing data and a graph of the transfer function of a RC (wich is the only that gave a good result)
+
+- Oscilloscope instruction manual
+ 
